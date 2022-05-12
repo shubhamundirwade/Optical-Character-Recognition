@@ -1,0 +1,8 @@
+opncv=python
+pytesseract==0.3.9
+numpy==1.19.5
+Flask==1.1.2
+Pillow==8.4.0
+gunicorn
+requests
+ 
